@@ -1,4 +1,4 @@
-# Essay: [The Importance of Effective Collaboration and Trust in the Modern Digital Workforce]
+# Essay: The Importance of Effective Collaboration and Trust in the Modern Digital Workforce
 
 This is an essay I wrote for a class project in **ACIT4075-1: Introduction to Virtual Teams and Global Engineering Communication Project Management**.  
 It was created just for fun, learning, and sharing ideas.
