@@ -21,7 +21,7 @@ You may **not**:
 
 Full license details: [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-> © [ShamimehM], [2024].  
+> © ShamimehM, 2024.  
 > Licensed under CC BY-NC-ND 4.0.
 
 ---
